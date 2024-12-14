@@ -5,6 +5,12 @@ The **YouTube Region Restriction Checker** is a tool designed to identify videos
 
 ---
 
+##Screenshots
+
+![Screenshot 2024-12-14 102324](https://github.com/user-attachments/assets/eff4d87e-3f08-4413-8e2e-a844de55f5cb)
+
+---
+
 ## Features
 - Check if a YouTube video is restricted in a specific country or globally.
 - Supports multiple video URLs for batch processing.
